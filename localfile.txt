@@ -1,1 +1,3 @@
 ADD TEXT FILE IN REPOSITORY
+
+Hello Friend I am Smey 2
